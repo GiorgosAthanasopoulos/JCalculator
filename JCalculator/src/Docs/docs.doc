@@ -1,0 +1,9 @@
+Calculator app made by George Athanassopoulos, email: athanassopoulosg@gmail.com
+
+
+For memory:
+
+MC = Memory Clear , clears all numbers in memory
+MR = Memory Read, cycles through all the numbers in memory
+M+ = Memory Add, adds current number in display to the memory
+M- = Memory Substract, removes current number in display from the memory
